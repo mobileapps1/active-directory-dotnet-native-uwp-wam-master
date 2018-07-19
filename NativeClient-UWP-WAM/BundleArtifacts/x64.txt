@@ -1,0 +1,2 @@
+MainPackage=C:\Users\pama\Desktop\InsiderDevTour18-Labs-master\active-directory-dotnet-native-uwp-wam-master\NativeClient-UWP-WAM\bin\x64\Debug\NativeClient-UWP-WAM_1.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\pama\Desktop\InsiderDevTour18-Labs-master\active-directory-dotnet-native-uwp-wam-master\NativeClient-UWP-WAM\AppPackages\NativeClient-UWP-WAM_1.0.0.0_Debug_Test\NativeClient-UWP-WAM_1.0.0.0_x64_Debug.appxsym
